@@ -2,15 +2,33 @@
     "data": [
         {
             "id": 1,
-            "nombre": "Erika"
+            "nombre": "Sabina"
         },
         {
             "id": 2,
-            "nombre": "Erika"
+            "nombre": "Daniel",
+            "mascotas": {
+                "gatos": [
+                    "Tizne",
+                    "Petra"
+                ],
+                "perros": [
+                    "blue",
+                    "Alfa",
+                    "Roco"
+                ],
+                "colores": [
+                    {
+                        "gris": 2,
+                        "negro": 2,
+                        "cafe": 1
+                    }
+                ]
+            }
         },
         {
             "id": 3,
-            "nombre": "Erika"
+            "nombre": "Flor"
         }
     ]
 }
