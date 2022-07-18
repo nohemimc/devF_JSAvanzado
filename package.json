@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nohemimc/devF_JSAvanzado#readme",
   "dependencies": {
+    "axios": "^0.27.2",
     "json-server": "^0.17.0",
     "xmlhttprequest": "^1.8.0"
   }
