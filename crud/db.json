@@ -1,0 +1,24 @@
+{
+    "data" : [
+        {
+            "task": "Lavar la ropa",
+            "id": 1
+        },
+        {
+            "task": "Lavar los trastes",
+            "id": 2
+        },
+        {
+            "task": "Estudiar",
+            "id": 3
+        },
+        {
+            "task": "Cocinar",
+            "id": 4
+        },
+        {
+            "task": "Dormir",
+            "id": 5
+        }
+    ]
+}
