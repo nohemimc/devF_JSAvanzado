@@ -1,24 +1,12 @@
 {
-    "data" : [
-        {
-            "task": "Lavar la ropa",
-            "id": 1
-        },
-        {
-            "task": "Lavar los trastes",
-            "id": 2
-        },
-        {
-            "task": "Estudiar",
-            "id": 3
-        },
-        {
-            "task": "Cocinar",
-            "id": 4
-        },
-        {
-            "task": "Dormir",
-            "id": 5
-        }
-    ]
+  "data": [
+    {
+      "id": "14b53b7d-fbc8-4d58-aafd-8408a82530ef",
+      "task": "funciona"
+    },
+    {
+      "id": "1a7c914a-8f85-42ac-9928-ff2556b0a952",
+      "task": "tarea 123"
+    }
+  ]
 }

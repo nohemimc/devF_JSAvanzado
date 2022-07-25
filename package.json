@@ -4,7 +4,9 @@
   "description": "Módulo Js Avanzado con node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./express/index.js",
+    "browseri-bundle": "browserify ./crud/index.js -o ./crud/bundle.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,7 @@
     "axios": "^0.27.2",
     "json-server": "^0.17.0",
     "nodemon": "^2.0.19",
+    "uuid": "^8.3.2",
     "xmlhttprequest": "^1.8.0"
   }
 }
